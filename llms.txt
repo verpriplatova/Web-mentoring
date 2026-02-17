@@ -1,0 +1,19 @@
+# Veronika Příplatová - Mentoring pro e-shopy
+
+## O webu
+Tento web slouží k prezentaci služeb Veroniky Příplatové, která nabízí individuální mentoring pro majitele e-shopů a firem.
+
+## Hlavní sekce
+- **Hero**: Úvodní nabídka systematického řízení firmy.
+- **Realita podnikání**: Popisuje běžné problémy rostoucích firem (závislost na majiteli, chaos).
+- **Co dělám**: Nabídka služeb (nastavení procesů, finance, delegování).
+- **Jak spolupráce probíhá**: Analýza -> Nastavení -> Realizace.
+- **S kým pracuji**: Cílová skupina (majitelé e-shopů, stabilní obrat).
+- **O mně**: Zkušenosti Veroniky Příplatové (30+ let praxe, e-commerce).
+- **Kontakt**: Telefon, email, IČ, rezervační kalendář.
+
+## Kontakt
+- **Jméno**: Ing. Veronika Příplatová
+- **Tel**: +420 737 859 995
+- **Email**: veronika@exteras.cz
+- **Web**: https://www.exteras.cz
