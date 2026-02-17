@@ -524,10 +524,6 @@ nav.active ul li a {
 }
 
 /* Profile Lockup Section */
-#s-kym-pracuji {
-    background-color: var(--primary-dark);
-}
-
 .profile-lockup {
     background: rgba(255, 255, 255, 0.05);
     /* Very subtle light overlay on dark bg */
@@ -540,13 +536,13 @@ nav.active ul li a {
 
 .lockup-image {
     width: 100%;
-    height: auto;
+    height: 300px;
 }
 
 .lockup-image img {
     width: 100%;
-    height: auto;
-    display: block;
+    height: 100%;
+    object-fit: cover;
     border-radius: 0;
 }
 
@@ -740,12 +736,6 @@ footer {
         width: 40%;
         height: auto;
         min-height: 100%;
-    }
-
-    .lockup-image img {
-        height: 100%;
-        object-fit: cover;
-        object-position: top center;
     }
 
     .lockup-content {
