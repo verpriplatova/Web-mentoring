@@ -180,7 +180,7 @@ img {
 }
 
 .bg-dark {
-    background-color: var(--primary-contrast);
+    background-color: var(--primary-dark);
     color: white;
 }
 
@@ -339,7 +339,7 @@ nav.active ul li a {
     font-size: 1.35rem;
     font-weight: 500;
     color: var(--primary-dark);
-    margin-bottom: 1.5rem;
+    margin-bottom: 0.5rem;
     line-height: 1.4;
 }
 
@@ -536,12 +536,14 @@ nav.active ul li a {
 
 .lockup-image {
     width: 100%;
-    height: 300px;
+    height: auto;
+    /* Originally 300px fixed height */
 }
 
 .lockup-image img {
     width: 100%;
-    height: 100%;
+    height: auto;
+    /* Originally 100% */
     object-fit: cover;
     border-radius: 0;
 }
@@ -736,6 +738,12 @@ footer {
         width: 40%;
         height: auto;
         min-height: 100%;
+    }
+
+    .lockup-image img {
+        height: 100%;
+        object-fit: cover;
+        object-position: top center;
     }
 
     .lockup-content {
