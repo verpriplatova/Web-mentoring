@@ -543,8 +543,8 @@ nav.active ul li a {
 .lockup-image img {
     width: 100%;
     height: auto;
-    /* Originally 100% */
     object-fit: cover;
+    object-position: top center;
     border-radius: 0;
 }
 
